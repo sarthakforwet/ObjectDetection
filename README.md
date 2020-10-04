@@ -2,9 +2,9 @@
 
 Introduction
 
-Object detection is a computer vision technique for locating instances of objects in images or videos.
+Object detection is a computer vision subfield for locating instances of objects in images or videos.
 
-Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. If you had tried Object Detection from scratch, you would know the hassle one has to go through to get a model to train.
+Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. If you had tried Object Detection from scratch, you would know the hassle one has to go through to get a model to train. It utilizes image classification and landmarks points at the base level. A particular object detector is made using basically three steps i.e. Gathering and Structuring the data, Preparing the input pipeline for it, training the model with this pipeline and finally making predictions with this trained model.
 
 Here we made easy object detection by using Monk AI object detection library.
 
